@@ -1,0 +1,1 @@
+This is a project created to learn docker-compose with rails and react
